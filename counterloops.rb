@@ -9,5 +9,6 @@ def cha_cha_slide
   puts "slide to the right"
   sleep(0.1)
   puts "and kick"
+  moves_completed=moves_completed+1
 end
 end
