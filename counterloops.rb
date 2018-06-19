@@ -10,7 +10,7 @@ def cha_cha_slide
   sleep(0.1)
   puts "and kick"
   moves_completed = moves_completed + 1
-  puts "you've completed #{moves_completed}"
+  puts "you've completed #{moves_completed} moves"
 end
 end
 cha_cha_slide
