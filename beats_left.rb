@@ -13,4 +13,4 @@ def dance
   
 end
 
-beats_left_in_song
+dance
