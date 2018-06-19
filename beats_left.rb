@@ -1,5 +1,5 @@
 def dance
-  beats_left_in_song=100
+  beats_left_in_song=1000
   loop do
     if beats_left_in_song==0  
       break
