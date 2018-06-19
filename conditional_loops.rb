@@ -4,6 +4,8 @@ loop do
   if too_hot==true
     puts "turn on the AC!"
     sleep(2)
+  else
+    break
   end 
 too_hot=false
 end
