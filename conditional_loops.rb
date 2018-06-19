@@ -1,7 +1,11 @@
 def air_conditioner
   too_hot = true
-  loop do
+loop do
+  if too_hot=true
     puts "turn on the AC!"
-  until too_hot=false
+    sleep(2)
+  end 
 end
 end
+
+air_conditioner
