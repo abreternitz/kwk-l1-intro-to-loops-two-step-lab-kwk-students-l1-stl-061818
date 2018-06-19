@@ -5,7 +5,7 @@ def dance
       break
     else
       puts "Slide to the left, Slide to the Right, and Kick!"
-      sleep(0.1)
+      sleep(0.05)
       beats_left_in_song=beats_left_in_song - 1
       puts "#{beats_left_in_song} beats left"
     end
