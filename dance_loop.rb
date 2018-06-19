@@ -1,4 +1,4 @@
-loop do
+loop 
   puts "Right foot back"
   sleep(0.5)
   puts "Left foot back"
@@ -7,4 +7,5 @@ loop do
   sleep(0.5)
   puts "Stop"
   sleep(1)
+  break
 end
