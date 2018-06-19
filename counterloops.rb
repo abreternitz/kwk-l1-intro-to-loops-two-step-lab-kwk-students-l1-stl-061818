@@ -13,3 +13,4 @@ def cha_cha_slide
   puts "you've completed #{moves_completed}"
 end
 end
+cha_cha_slide
